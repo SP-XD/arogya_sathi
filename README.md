@@ -26,7 +26,7 @@ The system ensures timely medicine intake with real-time monitoring, scheduling,
 ## Resources:
 - 💻 [Companion App Repo](https://github.com/SP-XD/pill_dispenser_client_.git)  
 - 💻 [Server Repo](https://github.com/SP-XD/pill_dispenser_server)  
-- 💻 [Pill dispenser device repo](https://github.com/)
+- 💻 [Pill dispenser device repo](https://github.com/SP-XD/pill_dispenser_device)
 
 ## Pill Dispenser Device Overview
 <img width="50%" alt="Pill dispenser overview" src="https://github.com/user-attachments/assets/a7ff70e0-ead5-4d87-8715-5ed282388d02" />
